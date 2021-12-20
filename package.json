@@ -1,0 +1,25 @@
+{
+    "name": "carpvik-csv-ticket-refactor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+        "build": "npx tsc",
+        "run": "node ./dist/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Grait-Interaction/carpvik-csv-ticket-refactor.git"
+    },
+    "author": "Albin Hübsch <albin@grait.se>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Grait-Interaction/carpvik-csv-ticket-refactor/issues"
+    },
+    "homepage": "https://github.com/Grait-Interaction/carpvik-csv-ticket-refactor#readme",
+    "devDependencies": {
+        "@types/node": "^17.0.1",
+        "typescript": "^4.5.4"
+    }
+}
